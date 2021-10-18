@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072437041156",
+    "project_id": "chattinghassd",
+    "storage_bucket": "chattinghassd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072437041156:android:f58b0ae7e52ba7326bfd51",
+        "android_client_info": {
+          "package_name": "com.example.chattinghassan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072437041156-st92c5ds5c4tisadtt6cspdia3lrff3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattinghassan",
+            "certificate_hash": "2aa2c9a18f8ec3cae0452f23a2478f3e732882ad"
+          }
+        },
+        {
+          "client_id": "1072437041156-vtnnab0a7a463q04h2mdupmcl71isoq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8rZiM4qI10-9ej0HUp3qnQBe-rfhcuPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072437041156-vtnnab0a7a463q04h2mdupmcl71isoq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
